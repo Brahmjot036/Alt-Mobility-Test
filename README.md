@@ -89,8 +89,9 @@ The analysis addresses the following business challenges:
 - Visualized retention trends using a heatmap matrix (Python and Power BI).
 - Highlighted retention drop-off points and long-term engagement patterns.
 
-**Screenshot – Retention Heatmap Python/Power BI**  
-![Customer Retention Heatmap](![image](https://github.com/user-attachments/assets/be007f9b-f6b4-4a21-8d79-85cb24528cb7)
+**Screenshot – Retention Heatmap Python**  
+![Customer Retention Heatmap]![output](https://github.com/user-attachments/assets/1b90b5f1-06d0-4f73-85c7-7cbdf8984336)
+
 )
 
 ---
@@ -105,7 +106,8 @@ Power BI dashboards and Python visualizations were used to effectively communica
 - Customer retention heatmap (cohort-based)
 
 **Screenshot – Power BI Dashboard Overview**  
-![Power BI Dashboard](![image](https://github.com/user-attachments/assets/cb331e03-512e-499a-af56-23468c11e53b)
+![Power BI Dashboard]![Screenshot 2025-04-30 172708](https://github.com/user-attachments/assets/643aa504-278f-4241-a1ec-c7cb006da988)
+
 )
 
 ---
